@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KLDiscovery", "KLDiscovery\KLDiscovery.csproj", "{F3232086-8C21-4620-808A-1FB65F4CF020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3232086-8C21-4620-808A-1FB65F4CF020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3232086-8C21-4620-808A-1FB65F4CF020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3232086-8C21-4620-808A-1FB65F4CF020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3232086-8C21-4620-808A-1FB65F4CF020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C2A6A8-CA0E-49EC-9B32-371D7D9A8020}
+	EndGlobalSection
+EndGlobal

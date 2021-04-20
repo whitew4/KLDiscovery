@@ -1,0 +1,12 @@
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\bin\Debug\netcoreapp3.1\KLDiscovery.exe
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\bin\Debug\netcoreapp3.1\KLDiscovery.deps.json
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\bin\Debug\netcoreapp3.1\KLDiscovery.runtimeconfig.json
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\bin\Debug\netcoreapp3.1\KLDiscovery.runtimeconfig.dev.json
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\bin\Debug\netcoreapp3.1\KLDiscovery.dll
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\bin\Debug\netcoreapp3.1\KLDiscovery.pdb
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\obj\Debug\netcoreapp3.1\KLDiscovery.AssemblyInfoInputs.cache
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\obj\Debug\netcoreapp3.1\KLDiscovery.AssemblyInfo.cs
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\obj\Debug\netcoreapp3.1\KLDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\obj\Debug\netcoreapp3.1\KLDiscovery.dll
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\obj\Debug\netcoreapp3.1\KLDiscovery.pdb
+C:\Users\billy\source\repos\KLDiscovery\KLDiscovery\obj\Debug\netcoreapp3.1\KLDiscovery.genruntimeconfig.cache
